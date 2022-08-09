@@ -18,4 +18,5 @@ This dataset contains the unemployment rate of all the states in India
 
 
 ![image](https://user-images.githubusercontent.com/101332838/183598855-50044033-3069-47ae-bf11-51d7146b900b.png)
-![image](https://user-images.githubusercontent.com/101332838/183600068-dde87c93-5bb4-42f6-9e4e-1339ce39e02a.png)
+![image](https://user-images.githubusercontent.com/101332838/183600458-d150b7e5-0da0-4eb9-a7e6-9ab6d8b7ffcd.png)
+
